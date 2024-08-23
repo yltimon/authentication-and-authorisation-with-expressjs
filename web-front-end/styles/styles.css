@@ -11,6 +11,12 @@ h1 {
     margin-top: 20px;
 }
 
+h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
 form {
     max-width: 400px;
     margin: 20px auto;
@@ -58,6 +64,22 @@ button {
 
 button:hover {
     background-color: #218838;
+}
+
+form#delete-user-form button {
+    background-color: #e74c3c;
+}
+
+form#delete-user-form button:hover {
+    background-color: #c0392b;
+}
+
+form#delete-user-form {
+    margin-top: 40px;
+}
+
+form#delete-user-form input[type="text"] {
+    border-color: #e74c3c;
 }
 
 table {
