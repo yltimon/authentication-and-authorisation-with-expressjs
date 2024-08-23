@@ -1,9 +1,7 @@
 ## Features
-User authentication (login, logout, register)
-User profile management (view, update)
-User deletion functionality (new feature)
-Other features...
-User Deletion Functionality
+1. User authentication (login, logout, register)
+2. User profile management (view, update)
+3. User deletion functionality (new feature)
 
 ## Description
 The user deletion functionality allows for the removal of user accounts from the system. This feature is implemented to be performed only after user authentication, ensuring that only recognized users can attempt to delete accounts. However, additional checks and considerations are needed to ensure robust security.
